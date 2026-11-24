@@ -3,6 +3,6 @@
   "catalogVersion": "2026.11.22.1835",
   "updatedAt": "2026-11-22T18:35:52Z",
   "catalogFile": "store_safe_catalog.json",
-  "lineupServiceUrl": "https://simull-lineups.playersbaf.workers.dev",
+  "lineupServiceUrl": "https://lineups.kesksoftware.com",
   "notes": "Resmi SIMULL mağaza-uyumlu kadro, rating ve sezon fikstürü."
 }
